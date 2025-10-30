@@ -2,7 +2,7 @@
 
 **Cleara v1** – Advanced & Safe Linux Cleanup Tool  
 
-Reclaim disk space and keep your Linux system clean.  
+~ Reclaim disk space and keep your Linux system clean.  
 
 ## Features
 - Drop system cache
