@@ -1,0 +1,15 @@
+# Logs
+*.log
+/var/log/*
+
+# Editor files
+*.swp
+*.swo
+.vscode/
+
+# OS cache
+.DS_Store
+
+# Ignore sensitive files
+*.key
+*.env
