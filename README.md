@@ -19,3 +19,24 @@
 git clone https://github.com/raaahulll3/cleara.git
 cd cleara
 chmod +x cleara.sh
+```
+## Usage
+Interactive mode
+
+```
+./cleara.sh
+```
+CLI options
+
+```
+./cleara.sh --all       # Full cleanup
+./cleara.sh --tmp       # Clean /tmp
+./cleara.sh --cache     # Clean caches
+./cleara.sh --pkg       # Clean package cache
+./cleara.sh --purge     # Purge old configs
+./cleara.sh --dry-run   # Preview actions without deleting
+./cleara.sh --quiet     # Minimal output
+./cleara.sh --no-color  # Disable colors
+./cleara.sh -v          # Version info
+./cleara.sh -h          # Help
+```
